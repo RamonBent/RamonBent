@@ -82,8 +82,8 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFPB, atualm
 ### 📫 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/ramon-bento-oliveira/)
+- [Portfólio](https://ramondev.vercel.app/)
 - Email: **ramon.bento.oliver@gmail.com**
-- Site: (https://ramondev.vercel.app/)
 
 ---
 > “A melhor forma de aprender é construindo.” 🚀
