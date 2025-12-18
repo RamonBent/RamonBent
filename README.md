@@ -1,55 +1,68 @@
-# Ramon de Oliveira Bento
+# Olá, eu sou o Ramon de Oliveira Bento! 👋
 
-<p>
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFPB (5º período). Tenho experiência com desenvolvimento frontend (HTML, CSS, JavaScript e React), mas meu <b>foco principal é o Backend</b>, com especialidade em Java, Spring Boot e arquitetura de bancos de dados.
+### Analista e Desenvolvedor de Sistemas | Backend Developer
+
+<p align="left">
+  Sou formando em Análise e Desenvolvimento de Sistemas pelo IFPB. Com foco sólido em <b>Backend</b>, especializo-me no ecossistema <b>Java e Spring Boot</b>. Tenho experiência na construção de APIs robustas, modelagem de dados e integração de serviços. Além do código, sou entusiasta de robótica educacional e metodologias ágeis (Scrum/Kanban).
 </p>
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### **Backend & Mobile**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+**Linguagens e Frameworks (Foco Principal)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
-#### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+**Banco de Dados e Persistência**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Hibernate/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
 </p>
 
-#### **Banco de Dados & Infra**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+**DevOps, Ferramentas e Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
-### 📊 Estatísticas
-<div align="center">
+### 📊 Estatísticas e Atividade
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonBent&layout=compact&theme=tokyonight&hide=html,css,javascript&langs_count=5" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonBent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonBent&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=NOME_DE_ALGUM_REPO_ERRADO" />
-</div>
+</p>
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/ramon-bento-oliveira/)
-- [Portfólio](https://ramondev.vercel.app/)
-- Email: **ramon.bento.oliver@gmail.com**
+<p align="left">
+  <a href="https://www.linkedin.com/in/ramon-bento-oliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ramondev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ramon.bento.oliver@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
+
 > “A melhor forma de aprender é construindo.” 🚀
