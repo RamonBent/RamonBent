@@ -4,7 +4,6 @@
 Sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFPB, atualmente no 5º período. Durante a graduação, tive contato com desenvolvimento frontend, utilizando HTML, CSS, JavaScript e React, mas meu principal foco é o backend, com ênfase em Java, Spring Boot  e bancos de dados relacionais.
 </p>
 
-
 ---
 
 ### 🛠️ Minhas Tecnologias
