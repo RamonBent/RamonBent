@@ -3,7 +3,7 @@
 ### Analista e Desenvolvedor de Sistemas | Backend Developer
 
 <p align="left">
-  Sou formando em Análise e Desenvolvimento de Sistemas pelo IFPB. Com foco sólido em <b>Backend</b>, especializo-me no ecossistema <b>Java e Spring Boot</b>. Tenho experiência na construção de APIs robustas, modelagem de dados e integração de serviços. Além do código, sou entusiasta de robótica educacional e metodologias ágeis (Scrum/Kanban).
+  Sou graduado em Análise e Desenvolvimento de Sistemas pelo IFPB. Com foco sólido em <b>Backend</b>, especializo-me no ecossistema <b>Java e Spring Boot</b>. Tenho experiência na construção de APIs robustas, modelagem de dados e integração de serviços. Além do código, sou entusiasta de robótica educacional e metodologias ágeis (Scrum/Kanban).
 </p>
 
 ---
